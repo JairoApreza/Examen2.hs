@@ -56,5 +56,5 @@ mes = do
             putStrLn("Naciste en Diciembre")
             putStrLn("Tu mes tiene 31 dias")
         "13" -> do 
-            putStrLn("El mes debe estar en un rango entre 1 y 12 Bro")
+            putStrLn("El mes debe estar en un rango entre 1 y 12 Bro en caso de que no sea así, tendrás un GRAN ERROR!!! ")
         
